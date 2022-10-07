@@ -114,3 +114,41 @@ td, th {
     - **CNC Plotter** — (Arduino, G-code)
     - **2FA security system** — (Arduino, Android App)
     - **POV Fan** — (Arduino)
+
+## Courses and MOOCs
+- Machine Learning Specialization (1, 2, 3) — (coursera, September 2022)
+- Deep Learning Specialization (1, 2, 3, 4 ,5 In Progress) — (coursera)
+- Process Mining: Data science in Action -(coursera,In Progress) 
+- Genome Assembly Programming Challenge -(coursera, Audit)
+- Deep Learning A-Z™: Hands-On Artificial Neural Networks — (udemy, June. 2022) Tasks
+- Computational Neuroscience by University of Washington — (coursera, August 2020)
+- Advanced Data Analysis Nanodegree — (egfwd & udacity, December 2020) Tasks
+- Algorithms on Graphs — (coursera, April 2022)
+- Data Structure — (coursera, February 2021)
+- Algorithmic Toolbox — (coursera, September 2020)
+- Ethereum Blockchain Developer Bootcamp With Solidity — (udemy, March 2022) 
+- Big Data Engineer — (IBM, June 2019)
+- Agile and Software Testing — (Casbec Lab, March 2018)
+- AVR Microcontroller — (IMT School, October 2017)
+- Intro to Bioinformatics using R — (Nile University, August 2017)
+- Hadoop Big data crash course — (IEEE-FCI, February 2017)
+- Learning How To Learn — (coursera, August 2016)
+
+## Awards and Scholarships
+- Jyväskylä Summer School 2021.
+- Machine Learning summer school MLSS 2021 Taipei.
+- Egypt FWD initiative, Udacity —Advanced Data Science Track.
+- IEEE EMBS Cairo University Student Chapter Summer Contest, Second Place (2016) — Cloud-based Electronic Medical Record “EMR”.
+- UBORA design competition Second Stage (2017) — Design of Portable Solar Incubator.
+
+## Volunteering and Extracurricular Work 
+- Machine learning mentor in STP Macathon 3.0
+- IEEE-SMP “Student Mentorship Program” — (June 2021 - Dec. 2021)
+- Coordinator of my department class — (Aug. 2015 - Aug. 2018)
+- Organizer of SBME Seminars & Admin of CUFE-BME Youtube Channel
+- C++ Instructor— Beat Student Activity (July 2016)
+- Primary Arabic Teacher — Hand in Hand Student Activity (Nov. 2014 - Jan. 2015)
+- Conference Logistics Member — (BECEM April 2018, ISC April 2017)
+
+
+
