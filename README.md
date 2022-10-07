@@ -19,6 +19,7 @@ td, th {
 }
 </style>
 ## Interests
+
 |Computer Science | Neuroscience | Modeling |
 | --- | --- | --- |
 |**Blockchain** | **Data science** | **Computer vision** |
@@ -26,11 +27,11 @@ td, th {
 ---
 
 ## Experience 
-- ### Biomedical Engineering, Cairo University — Teaching Assistant <span style="font-family:Papyrus; font-size:1rem;">*Feb. 2019 - Present*</span>
+- ### Biomedical Engineering, Cairo University — Teaching Assistant <span style="font-size:1rem;">*Feb. 2019 - Present*</span>
 
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
-- ### Intixel, Cairo — Software Developer <span style="font-family:Papyrus; font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
+- ### Intixel, Cairo — Software Developer <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
     - Develop Web/Mobile applications using Flutter.
     - Develop Payment gateway using Authorize.net and Stripe apis, Django, DRF.
     - Develop google add-ons using Apps Script.
@@ -43,7 +44,7 @@ td, th {
     - Create Deployment pipeline using Github action.
     - Generate API documentation using swagger.
 - ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-family:Papyrus; font-size:1rem;"> *Sep. 2022 - Present* </span>
-- ### Siemens EDA, Cairo — Software Developer <span style="font-family:Papyrus; font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *Feb. 2021 - May 2021, Sep. 2018 - Jan. 2019* </span>
+- ### Siemens EDA, Cairo — Software Developer <span style="font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *Feb. 2021 - May 2021, Sep. 2018 - Jan. 2019* </span>
     - Invoking shell commands and creating Java APIs from Veloce C library using JNI. 
     - Create Java APIs from Veloce C library using JNI.
     - Writing scripts that use and parse the output of Enterprise Server and Veloce Strato Emulator.
@@ -54,11 +55,11 @@ td, th {
     - Maintained and added new Features to [Questa](https://www.mentor.com/products/fv/questa/) Coverage.
     - Maintained and Ran Regression tests.
     - Deployed new changes using Jenkins CI/CD pipeline.
-- ### ThinkLoud, Cairo — Software Developer <span style="font-family:Papyrus; font-size:1rem;">[website](https://www.thinkloud.co/), [linkedin](https://www.linkedin.com/company/thinkloudllc/) *August 2018* </span>
+- ### ThinkLoud, Cairo — Software Developer <span style="font-size:1rem;">[website](https://www.thinkloud.co/), [linkedin](https://www.linkedin.com/company/thinkloudllc/) *August 2018* </span>
     - Developed Web/Mobile applications using Ionic, Loopback and MongoDB.
     - Developed Rest APIs and generated API documentation using swagger.
     - Peer code review.
-- ### Dileny, Giza — Software Developer - Intern <span style="font-family:Papyrus; font-size:1rem;">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) *July 2017 - Sep.* 2017 </span>
+- ### Dileny, Giza — Software Developer - Intern <span style="font-size:1rem;">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) *July 2017 - Sep.* 2017 </span>
     - Used C++/OpenCv/Qt to build an Image processing Desktop Application.
     - Created application prototypes using Python
     - Drew ER diagrams and Created DB schema on SQLite.
