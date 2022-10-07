@@ -24,7 +24,7 @@
 ---
 
 > ### Experience 
-- ### Biomedical Engineering, Cairo University — Teaching Assistant</font> <font size="2">*Feb. 2019 - Present*</font>
+- ### Biomedical Engineering, Cairo University — Teaching Assistant <font size="2">*Feb. 2019 - Present*</font>
 
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
@@ -52,11 +52,11 @@
     - Maintained and added new Features to [Questa](https://www.mentor.com/products/fv/questa/) Coverage.
     - Maintained and Ran Regression tests.
     - Deployed new changes using Jenkins CI/CD pipeline.
-- ### ThinkLoud, Cairo — Software Developer <font size="2">[website](https://www.thinkloud.co/), [linkedin](https://www.linkedin.com/company/thinkloudllc/) August 2018 </font>
+- ### ThinkLoud, Cairo — Software Developer <font size="2">[website](https://www.thinkloud.co/), [linkedin](https://www.linkedin.com/company/thinkloudllc/) *August 2018* </font>
     - Developed Web/Mobile applications using Ionic, Loopback and MongoDB.
     - Developed Rest APIs and generated API documentation using swagger.
     - Peer code review.
-- ### Dileny, Giza — Software Developer - Intern <font size="2">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) July 2017 - Sep. 2017 </font>
+- ### Dileny, Giza — Software Developer - Intern <font size="2">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) *July 2017 - Sep.* 2017 </font>
     - Used C++/OpenCv/Qt to build an Image processing Desktop Application.
     - Created application prototypes using Python
     - Drew ER diagrams and Created DB schema on SQLite.
