@@ -74,3 +74,43 @@ td, th {
 - **Data Science:** Numpy, Pandas,  PyTorch, Tensorflow, Sklearn, Matplotlib, Seaborn, Jupyter.
 - **Scientific Tools:** NEURON, XPP.
 - **Others:** AWS, DICOM, PACS, git, Make, Multithreading, Unit Testing, Linux, Qt, Docker, Profiling, Logging, C Wrappers(Cython, JNI, matlab coder *formerly mex*).
+
+## Projects
+- Imaging
+    - **MRI Sequence Simulator** — MRI Imaging Simulator with different pulse sequences and different imaging parameters (Matlab, C ”Matlab mex”, Python, Cython) link
+    - **CT-MR Tracker** — Desktop application that links a DICOM MR-Image with a CT-Image or vice versa in order to propagate the same transformation or highlighting from one Image to another (Python, Qt, pydicom)
+    - **DICOM Merger** — Desktop application that merges a DICOM image in a video streaming source (Python, Qt, opencv)
+    - **Mini PACS** — Picture Archiving System (C++, Qt, SQLite) link
+    - **Computer Vision** — Hough transform, Canny Edge detection, Segmentation link
+    - **Image Processing Application** — (C++, Qt, OpenCV) link
+- Data Science
+    - Handwritten Letter Recognition using Neural Networks— (Python, pytorch, pandas, sklearn) link
+    - Demographic Segmentation using ANN — (Python, tensorflow, sklearn) link
+    - Image classification using CNN — (Python, tensorflow, sklearn) link
+    - Google Stock Price Predictor  using RNN — (Python, tensorflow, sklearn) link
+    - Data exploration and visualization — Exploration and Visualization of FordGo dataset (Python, pandas, matplot, seaborn) link
+    - A/B testing — (Python, pandas, numpy, statsmodel, sklearn) link
+    - Prediction of Type II Diabetes — Train several ML Models on Pima diabetes dataset using hyperparameter tuning and k-cross validation then compare their confusion matrix, ROC and Feature Importance. (Python, pandas, sklearn)
+    - Hand Movement Classifier — Differentiate between Palmar and Lateral Movement Records (Python) link
+- Neuroscience
+    - XPP vscode extension code link
+    - Run simulation for neurons and networks using NEURON and Python.
+    - Build neural models and conduct bifurcation analysis using XPPAUT.
+- Web Development
+    - National Electronic Health Record “Graduation project”— scalable platform to exchange medical data between different healthcare providers (Java Spring, DynamoDB, S3, redshift) link
+    - Web CIS — Cloud-based Clinical Information System (C#, ASP.net, SQL, Amazon RDS) link
+    - Fourier Series Visualization — (javascript, P5) link demo
+    - Phonebook — (angular, loopback) link
+    - Maze Generator — web application that generates a maze to be solved (javascript, P5, docker) link, docker
+    - P2PTicTacToe — web application to play TicTacToe (javascript, node, Express, P5, Socket Programming) link
+    - Pendulum Simulator — web application to draw the state associated on movement from different initial positions (javascript, P5) link, demo
+- Desktop Applications
+    - PDFetos — Desktop App to convert images into pdf (C++, Qt, OpenCV) link
+    - DSP Sound Filter — Design and Implement a digital filter using zeros and poles locations on z-plane (Python) link
+    - DSP Equalizer — Design a real time digital equalizer (Python, Arduino) link
+- Embedded Software
+    - Elevator Control System — (8051 Microcontroller, Arduino, Android App)
+    - Vending Machine — Vending Machine Using FPGA Kit (VHDL, Xilinx)
+    - CNC Plotter — (Arduino, G-code)
+    - 2FA security system — (Arduino, Android App)
+    - POV Fan — (Arduino)
