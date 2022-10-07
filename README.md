@@ -8,22 +8,24 @@
 
 ---
 
-> ### Summary
+> ## Summary
     Master's student in Neuroscience Modeling with experience in the software industry.
 
 ---
 
-> ### Interests
-- Software Development
-- Neuroscience
-- Modeling
-- Blockchain
-- Data science
-- Computer vision
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+## Interests
+|Computer Science | Neuroscience | Modeling |
+| --- | --- | --- |
+|**Blockchain** | **Data science** | **Computer vision** |
 
 ---
 
-> ### Experience 
+## Experience 
 - ### Biomedical Engineering, Cairo University — Teaching Assistant <span style="font-family:Papyrus; font-size:1rem;">*Feb. 2019 - Present*</span>
 
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
@@ -62,3 +64,12 @@
     - Drew ER diagrams and Created DB schema on SQLite.
     - Products: US-Elasto
 
+## Skills
+- **Programming Languages:** Python, Javascript, Java, C/C++, Dart, Matlab.
+- **Web Frameworks:** Django, DRF, Spring, React, Node, Next, Flutter, Ionic, Loopback, Apps Script.
+- **Database:** MySQL, SQLite, NoSQL “Dynamo, Mongo”, ER Diagrams, ORM”Hibernate, Django ORM”, MySQL Workbench.
+- **Embedded:** 8051 Assembly, AVR, PIC, ESP8266,  Arduino, RTOS
+- **Blockchain:** Solidity, Truffle, Metamask, web3.js, Remix.
+- **Data Science:** Numpy, Pandas,  PyTorch, Tensorflow, Sklearn, Matplotlib, Seaborn, Jupyter.
+- **Scientific Tools:** NEURON, XPP.
+- **Others:** AWS, DICOM, PACS, git, Make, Multithreading, Unit Testing, Linux, Qt, Docker, Profiling, Logging, C Wrappers(Cython, JNI, matlab coder *formerly mex*).
