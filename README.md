@@ -77,37 +77,37 @@ td, th {
 
 ## Projects
 - ***Imaging***
-    - **MRI Sequence Simulator** — MRI Imaging Simulator with different pulse sequences and different imaging parameters (Matlab, C ”Matlab mex”, Python, Cython) link
+    - [**MRI Sequence Simulator**](https://github.com/MuhammadMoustafa/MRI_Simulator) — MRI Imaging Simulator with different pulse sequences and different imaging parameters (Matlab, C ”Matlab mex”, Python, Cython)
     - **CT-MR Tracker** — Desktop application that links a DICOM MR-Image with a CT-Image or vice versa in order to propagate the same transformation or highlighting from one Image to another (Python, Qt, pydicom)
     - **DICOM Merger** — Desktop application that merges a DICOM image in a video streaming source (Python, Qt, opencv)
-    - **Mini PACS** — Picture Archiving System (C++, Qt, SQLite) link
-    - **Computer Vision** — Hough transform, Canny Edge detection, Segmentation link
-    - **Image Processing Application** — (C++, Qt, OpenCV) link
+    - [**Mini PACS**](https://github.com/MuhammadMoustafa/Test-MiniPACS) — Picture Archiving System (C++, Qt, SQLite)
+    - [**Computer Vision**](https://github.com/MuhammadMoustafa/Computer-Vision.git) — Hough transform, Canny Edge detection, Segmentation
+    - [**Image Processing Application**](https://github.com/MuhammadMoustafa/Image-processing-app) — (C++, Qt, OpenCV)
 - ***Data Science***
-    - **Handwritten Letter Recognition using Neural Networks** — (Python, pytorch, pandas, sklearn) link
-    - Demographic Segmentation using ANN — (Python, tensorflow, sklearn) link
-    - **Image classification using CNN** — (Python, tensorflow, sklearn) link
-    - **Google Stock Price Predictor using RNN** — (Python, tensorflow, sklearn) link
-    - **Data exploration and visualization** — Exploration and Visualization of FordGo dataset (Python, pandas, matplot, seaborn) link
-    - **A/B testing** — (Python, pandas, numpy, statsmodel, sklearn) link
+    - [**Handwritten Letter Recognition using Neural Networks**](https://github.com/MuhammadMoustafa/PytorchTutorials) — (Python, pytorch, pandas, sklearn)
+    - [**Demographic Segmentation using ANN**](https://github.com/MuhammadMoustafa/dl_a-z/tree/main/1-ann) — (Python, tensorflow, sklearn)
+    - [**Image classification using CNN**](https://github.com/MuhammadMoustafa/dl_a-z/tree/main/2-cnn) — (Python, tensorflow, sklearn)
+    - [**Google Stock Price Predictor using RNN**](https://github.com/MuhammadMoustafa/dl_a-z/tree/main/3-rnn) — (Python, tensorflow, sklearn)
+    - [**Data exploration and visualization**](https://github.com/MuhammadMoustafa/AdvancedDataAnalysis/tree/main/Communicate%20Data%20Findings_FordGoBike%20Dataset) — Exploration and Visualization of FordGo dataset (Python, pandas, matplot, seaborn)
+    - [**A/B testing**](https://github.com/MuhammadMoustafa/AdvancedDataAnalysis/tree/main/Analyze%20A_B%20Test) — (Python, pandas, numpy, statsmodel, sklearn)
     - **Prediction of Type II Diabetes** — Train several ML Models on Pima diabetes dataset using hyperparameter tuning and k-cross validation then compare their confusion matrix, ROC and Feature Importance. (Python, pandas, sklearn)
-    - **Hand Movement Classifier** — Differentiate between Palmar and Lateral Movement Records (Python) link
+    - [**Hand Movement Classifier**](https://github.com/MuhammadMoustafa/Hand-Movement-Classifier) — Differentiate between Palmar and Lateral Movement Records (Python)
 - ***Neuroscience***
-    - **XPP vscode extension code** link
+    - [**XPP vscode extension code**](https://github.com/MuhammadMoustafa/XPP-ODE-Extension) [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadMoustafa.xpp)
     - **Run simulation for neurons and networks using NEURON and Python**
     - **Build neural models and conduct bifurcation analysis using XPPAUT**
 - ***Web Development***
-    - **National Electronic Health Record** “Graduation project”— scalable platform to exchange medical data between different healthcare providers (Java Spring, DynamoDB, S3, redshift) link
-    - **Web CIS** — Cloud-based Clinical Information System (C#, ASP.net, SQL, Amazon RDS) link
-    - **Fourier Series Visualization** — (javascript, P5) link demo
-    - **Phonebook** — (angular, loopback) link
-    - **Maze Generator** — web application that generates a maze to be solved (javascript, P5, docker) link, docker
-    - **P2PTicTacToe** — web application to play TicTacToe (javascript, node, Express, P5, Socket Programming) link
-    - **Pendulum Simulator** — web application to draw the state associated on movement from different initial positions (javascript, P5) link, demo
+    - [**National Electronic Health Record** ](https://bitbucket.org/nehrgp/graduation_project/src/master/) “Graduation project”— scalable platform to exchange medical data between different healthcare providers (Java Spring, DynamoDB, S3, redshift)
+    - [**Web CIS**](https://github.com/MuhammadMoustafa/CIS) — Cloud-based Clinical Information System (C#, ASP.net, SQL, Amazon RDS)
+    - [**Fourier Series Visualization**](https://github.com/MuhammadMoustafa/FourierSeriesVisualization) — (javascript, P5) [live demo](https://muhammadmoustafa.github.io/FourierSeriesVisualization/)
+    - [**Phonebook**](https://github.com/MuhammadMoustafa/Phonebook) — (Angular, Loopback)
+    - [**Maze Generator**](https://github.com/MuhammadMoustafa/MazeGenerator) — web application that generates a maze to be solved (javascript, P5, docker) [docker](https://cloud.docker.com/u/kakashi22/repository/docker/kakashi22/maze_generator)
+    - [**P2PTicTacToe**](https://github.com/MuhammadMoustafa/P2PTicTacToe) — web application to play TicTacToe (javascript, node, Express, P5, Socket Programming)
+    - [**Pendulum Simulator**](https://github.com/MuhammadMoustafa/pendulumSimulation) — web application to draw the state associated on movement from different initial positions (javascript, P5) [live demo](https://muhammadmoustafa.github.io/pendulumSimulation/)
 - ***Desktop Applications***
-    - **PDFetos** — Desktop App to convert images into pdf (C++, Qt, OpenCV) link
-    - **DSP Sound Filter** — Design and Implement a digital filter using zeros and poles locations on z-plane (Python) link
-    - **DSP Equalizer** — Design a real time digital equalizer (Python, Arduino) link
+    - [**PDFetos**](https://github.com/MuhammadMoustafa/PDFetos) — Desktop App to convert images into pdf (C++, Qt, OpenCV)
+    - [**DSP Sound Filter**](https://github.com/MuhammadMoustafa/DSP/tree/master/BIO2018-DSP-PROJECT02-GroupNumber-9) — Design and Implement a digital filter using zeros and poles locations on z-plane (Python)
+    - [**DSP Equalizer**](https://github.com/MuhammadMoustafa/DSP/tree/master/BIO2018-DSP-PROJECT04-GroupNumber-9) — Design a real time digital equalizer (Python, Arduino)
 - ***Embedded Software***
     - **Elevator Control System** — (8051 Microcontroller, Arduino, Android App)
     - **Vending Machine** — Vending Machine Using FPGA Kit (VHDL, Xilinx)
@@ -116,23 +116,32 @@ td, th {
     - **POV Fan** — (Arduino)
 
 ## Courses and MOOCs
-- Machine Learning Specialization (1, 2, 3) — (coursera, September 2022)
-- Deep Learning Specialization (1, 2, 3, 4 ,5 In Progress) — (coursera)
-- Process Mining: Data science in Action -(coursera,In Progress) 
-- Genome Assembly Programming Challenge -(coursera, Audit)
-- Deep Learning A-Z™: Hands-On Artificial Neural Networks — (udemy, June. 2022) Tasks
-- Computational Neuroscience by University of Washington — (coursera, August 2020)
-- Advanced Data Analysis Nanodegree — (egfwd & udacity, December 2020) Tasks
-- Algorithms on Graphs — (coursera, April 2022)
-- Data Structure — (coursera, February 2021)
-- Algorithmic Toolbox — (coursera, September 2020)
-- Ethereum Blockchain Developer Bootcamp With Solidity — (udemy, March 2022) 
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — (coursera, September 2022)
+    - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) (August 2022)
+    - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) (September 2022)
+    - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) (September 2022)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) — (coursera)
+    - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (July 2022)
+    - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (August 2022)
+    - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (August 2022)
+    - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (August 2022)
+    - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (In Progress)
+- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (Coursera)
+    - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) — (September 2020)
+    - [Data Structure](https://www.coursera.org/specializations/data-structures-algorithms) — (February 2021)
+    - [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) — (April 2022)
+    - [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) — (Audited)
+- [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining) — (coursera, In Progress) 
+- [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/) — (udemy, June. 2022) [Tasks](https://github.com/MuhammadMoustafa/dl_a-z)
+- [Computational Neuroscience by University of Washington](https://www.coursera.org/learn/computational-neuroscience) — (coursera, August 2020)
+- [Advanced Data Analysis Nanodegree](https://egfwd.com/specializtion/data-analysis-advanced) — (egfwd & udacity, December 2020) [Tasks](https://github.com/MuhammadMoustafa/AdvancedDataAnalysis)
+- [Ethereum Blockchain Developer Bootcamp With Solidity](https://www.udemy.com/course/blockchain-developer/) — (udemy, March 2022) 
 - Big Data Engineer — (IBM, June 2019)
 - Agile and Software Testing — (Casbec Lab, March 2018)
 - AVR Microcontroller — (IMT School, October 2017)
 - Intro to Bioinformatics using R — (Nile University, August 2017)
 - Hadoop Big data crash course — (IEEE-FCI, February 2017)
-- Learning How To Learn — (coursera, August 2016)
+- [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) — (coursera, August 2016)
 
 ## Awards and Scholarships
 - Jyväskylä Summer School 2021.
@@ -142,10 +151,10 @@ td, th {
 - UBORA design competition Second Stage (2017) — Design of Portable Solar Incubator.
 
 ## Volunteering and Extracurricular Work 
-- Machine learning mentor in STP Macathon 3.0
+- Machine learning mentor in STP [Macathon 3.0](https://stp-org.com/stp22/Machathon3/Machathon3.0_Page/)
 - IEEE-SMP “Student Mentorship Program” — (June 2021 - Dec. 2021)
 - Coordinator of my department class — (Aug. 2015 - Aug. 2018)
-- Organizer of SBME Seminars & Admin of CUFE-BME Youtube Channel
+- Organizer of SBME Seminars & Admin of [CUFE-BME Youtube Channel](https://www.youtube.com/channel/UCAX4MxXJ4-NZoiv-ieXGYjw)
 - C++ Instructor— Beat Student Activity (July 2016)
 - Primary Arabic Teacher — Hand in Hand Student Activity (Nov. 2014 - Jan. 2015)
 - Conference Logistics Member — (BECEM April 2018, ISC April 2017)
