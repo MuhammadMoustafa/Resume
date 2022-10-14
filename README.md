@@ -126,7 +126,7 @@ td, th {
     - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (August 2022)
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (August 2022)
     - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (October 2022)
-- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (Coursera)
+- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (coursera)
     - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) — (September 2020)
     - [Data Structure](https://www.coursera.org/specializations/data-structures-algorithms) — (February 2021)
     - [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) — (April 2022)
