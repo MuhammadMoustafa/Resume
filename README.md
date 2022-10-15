@@ -22,10 +22,10 @@
 ---
 
 ## Education
-- ### **Master’s of Biomedical Engineering School, Cairo University** — *September 2018 - Present*  
+- ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - Present*</span>  
 **Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions. [Github Repo](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)
 
-- ### **Bachelor of Biomedical Engineering School, Cairo University** — *September 2013 - July 2018*  
+- ### **Bachelor of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2013 - July 2018*</span>  
 **Grade:** Excellent (Second of class) **GPA:** 3.9
 
 ---
@@ -79,14 +79,14 @@
 - **Others:** AWS, DICOM, PACS, git, Make, Multithreading, Unit Testing, Linux, Qt, Docker, Profiling, Logging, C Wrappers(Cython, JNI, matlab coder *formerly mex*).
 
 ## Projects
-- ***Imaging***
+- **Imaging**
     - [**MRI Sequence Simulator**](https://github.com/MuhammadMoustafa/MRI_Simulator) — MRI Imaging Simulator with different pulse sequences and different imaging parameters (Matlab, C ”Matlab mex”, Python, Cython)
     - **CT-MR Tracker** — Desktop application that links a DICOM MR-Image with a CT-Image or vice versa in order to propagate the same transformation or highlighting from one Image to another (Python, Qt, pydicom)
     - **DICOM Merger** — Desktop application that merges a DICOM image in a video streaming source (Python, Qt, opencv)
     - [**Mini PACS**](https://github.com/MuhammadMoustafa/Test-MiniPACS) — Picture Archiving System (C++, Qt, SQLite)
     - [**Computer Vision**](https://github.com/MuhammadMoustafa/Computer-Vision.git) — Hough transform, Canny Edge detection, Segmentation
     - [**Image Processing Application**](https://github.com/MuhammadMoustafa/Image-processing-app) — (C++, Qt, OpenCV)
-- ***Data Science***
+- **Data Science**
     - [**Handwritten Letter Recognition using Neural Networks**](https://github.com/MuhammadMoustafa/PytorchTutorials) — (Python, pytorch, pandas, sklearn)
     - [**Demographic Segmentation using ANN**](https://github.com/MuhammadMoustafa/dl_a-z/tree/main/1-ann) — (Python, tensorflow, sklearn)
     - [**Image classification using CNN**](https://github.com/MuhammadMoustafa/dl_a-z/tree/main/2-cnn) — (Python, tensorflow, sklearn)
@@ -95,11 +95,11 @@
     - [**A/B testing**](https://github.com/MuhammadMoustafa/AdvancedDataAnalysis/tree/main/Analyze%20A_B%20Test) — (Python, pandas, numpy, statsmodel, sklearn)
     - **Prediction of Type II Diabetes** — Train several ML Models on Pima diabetes dataset using hyperparameter tuning and k-cross validation then compare their confusion matrix, ROC and Feature Importance. (Python, pandas, sklearn)
     - [**Hand Movement Classifier**](https://github.com/MuhammadMoustafa/Hand-Movement-Classifier) — Differentiate between Palmar and Lateral Movement Records (Python)
-- ***Neuroscience***
+- **Neuroscience**
     - [**XPP vscode extension code**](https://github.com/MuhammadMoustafa/XPP-ODE-Extension) [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadMoustafa.xpp)
     - **Run simulation for neurons and networks using NEURON and Python**
     - **Build neural models and conduct bifurcation analysis using XPPAUT**
-- ***Web Development***
+- **Web Development**
     - [**National Electronic Health Record** ](https://bitbucket.org/nehrgp/graduation_project/src/master/) “Graduation project”— scalable platform to exchange medical data between different healthcare providers (Java Spring, DynamoDB, S3, redshift)
     - [**Web CIS**](https://github.com/MuhammadMoustafa/CIS) — Cloud-based Clinical Information System (C#, ASP.net, SQL, Amazon RDS)
     - [**Fourier Series Visualization**](https://github.com/MuhammadMoustafa/FourierSeriesVisualization) — (javascript, P5) [live demo](https://muhammadmoustafa.github.io/FourierSeriesVisualization/)
@@ -107,11 +107,11 @@
     - [**Maze Generator**](https://github.com/MuhammadMoustafa/MazeGenerator) — web application that generates a maze to be solved (javascript, P5, docker) [docker](https://cloud.docker.com/u/kakashi22/repository/docker/kakashi22/maze_generator)
     - [**P2PTicTacToe**](https://github.com/MuhammadMoustafa/P2PTicTacToe) — web application to play TicTacToe (javascript, node, Express, P5, Socket Programming)
     - [**Pendulum Simulator**](https://github.com/MuhammadMoustafa/pendulumSimulation) — web application to draw the state associated on movement from different initial positions (javascript, P5) [live demo](https://muhammadmoustafa.github.io/pendulumSimulation/)
-- ***Desktop Applications***
+- **Desktop Applications**
     - [**PDFetos**](https://github.com/MuhammadMoustafa/PDFetos) — Desktop App to convert images into pdf (C++, Qt, OpenCV)
     - [**DSP Sound Filter**](https://github.com/MuhammadMoustafa/DSP/tree/master/BIO2018-DSP-PROJECT02-GroupNumber-9) — Design and Implement a digital filter using zeros and poles locations on z-plane (Python)
     - [**DSP Equalizer**](https://github.com/MuhammadMoustafa/DSP/tree/master/BIO2018-DSP-PROJECT04-GroupNumber-9) — Design a real time digital equalizer (Python, Arduino)
-- ***Embedded Software***
+- **Embedded Software**
     - **Elevator Control System** — (8051 Microcontroller, Arduino, Android App)
     - **Vending Machine** — Vending Machine Using FPGA Kit (VHDL, Xilinx)
     - **CNC Plotter** — (Arduino, G-code)
