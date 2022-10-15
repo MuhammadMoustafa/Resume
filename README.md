@@ -31,7 +31,7 @@
 ---
 
 ## Experience 
-- ### **Biomedical Engineering, Cairo University — Teaching Assistant** <span style="font-size:1rem;">*Feb. 2019 - Present*</span>  
+- ### **Biomedical Engineering, Cairo University — Teaching Assistant** <span style="font-size:1rem;">*February 2019 - Present*</span>  
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
 - ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
@@ -46,8 +46,8 @@
     - Use knox to add a security layer using web tokens.
     - Create Deployment pipeline using Github action.
     - Generate API documentation using swagger.
-- ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *Sep. 2022 - Present* </span>
-- ### **Siemens EDA, Cairo — Software Developer** <span style="font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *Feb. 2021 - May 2021, Sep. 2018 - Jan. 2019* </span>
+- ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *September 2022 - Present* </span>
+- ### **Siemens EDA, Cairo — Software Developer** <span style="font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *February 2021 - May 2021, September 2018 - January 2019* </span>
     - Invoked shell commands and created Java APIs from Veloce C library using JNI. 
     - Created Java APIs from Veloce C library using JNI.
     - Wrote scripts that use and parse the output of Enterprise Server and Veloce Strato Emulator.
@@ -62,7 +62,7 @@
     - Developed Web/Mobile applications using Ionic, Loopback and MongoDB.
     - Developed Rest APIs and generated API documentation using swagger.
     - Peer code review.
-- ### **Dileny, Giza — Software Developer - Intern** <span style="font-size:1rem;">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) *July 2017 - Sep.* 2017 </span>
+- ### **Dileny, Giza — Software Developer - Intern** <span style="font-size:1rem;">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) *July 2017 - September* 2017 </span>
     - Used C++/OpenCv/Qt to build an Image processing Desktop Application.
     - Created application prototypes using Python
     - Drew ER diagrams and Created DB schema on SQLite.
@@ -135,7 +135,7 @@
     - [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) — (April 2022)
     - [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) — (Audited)
 - [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining) — (coursera, In Progress) 
-- [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/) — (udemy, June. 2022) [Tasks](https://github.com/MuhammadMoustafa/dl_a-z)
+- [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/) — (udemy, June 2022) [Tasks](https://github.com/MuhammadMoustafa/dl_a-z)
 - [Computational Neuroscience by University of Washington](https://www.coursera.org/learn/computational-neuroscience) — (coursera, August 2020)
 - [Advanced Data Analysis Nanodegree](https://egfwd.com/specializtion/data-analysis-advanced) — (egfwd & udacity, December 2020) [Tasks](https://github.com/MuhammadMoustafa/AdvancedDataAnalysis)
 - [Ethereum Blockchain Developer Bootcamp With Solidity](https://www.udemy.com/course/blockchain-developer/) — (udemy, March 2022) 
@@ -155,9 +155,9 @@
 
 ## Volunteering and Extracurricular Work 
 - Machine learning mentor in STP [Macathon 3.0](https://stp-org.com/stp22/Machathon3/Machathon3.0_Page/)
-- IEEE-SMP “Student Mentorship Program” — (June 2021 - Dec. 2021)
-- Coordinator of my department class — (Aug. 2015 - Aug. 2018)
+- IEEE-SMP “Student Mentorship Program” — (June 2021 - December 2021)
+- Coordinator of my department class — (August 2015 - August 2018)
 - Organizer of SBME Seminars & Admin of [CUFE-BME Youtube Channel](https://www.youtube.com/channel/UCAX4MxXJ4-NZoiv-ieXGYjw)
 - C++ Instructor— Beat Student Activity (July 2016)
-- Primary Arabic Teacher — Hand in Hand Student Activity (Nov. 2014 - Jan. 2015)
+- Primary Arabic Teacher — Hand in Hand Student Activity (November 2014 - January 2015)
 - Conference Logistics Member — (BECEM April 2018, ISC April 2017)
