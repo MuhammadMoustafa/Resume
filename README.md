@@ -161,3 +161,9 @@
 - C++ Instructor— Beat Student Activity (July 2016)
 - Primary Arabic Teacher — Hand in Hand Student Activity (November 2014 - January 2015)
 - Conference Logistics Member — (BECEM April 2018, ISC April 2017)
+
+## Languages:
+- Arabic: Native
+- English: 105 TOEFL Score.
+- French: Unit 43 Duolingo
+- German: Unit 9 Duolingo
