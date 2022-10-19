@@ -36,16 +36,15 @@
 
 - ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
     - Develop and deploy smart contracts on ethereum network.
-    - Develop Web/Mobile applications using Flutter.
-    - Develop Payment gateway using Authorize.net and Stripe apis, Django, DRF.
+    - Develop web/mobile applications using Flutter.
+    - Develop a payment gateway using Authorize.net and Stripe apis, Django, DRF.
     - Develop google add-ons using Apps Script.
-    - Using GetX as a State Management library for Flutter applications.
+    - Using getX as a State Management library for Flutter applications.
     - Work on [AIRA](https://www.intixel.com/products/>) system for analysis of breast cancer images using Django, DRF, React, Next, MySQL.
     - Add user tracking analytics service to AIRA.
     - Communicate with different hospital imaging modalities and PACS using DICOM standard.
-    - Add an Authentication layer using JWT.
     - Use knox to add a security layer using web tokens.
-    - Create Deployment pipeline using Github action.
+    - Create a deployment pipeline using Github action.
     - Generate API documentation using swagger.
 - ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *September 2022 - Present* </span>
 - ### **Siemens EDA, Cairo — Software Developer** <span style="font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *February 2021 - May 2021, September 2018 - January 2019* </span>
