@@ -35,6 +35,7 @@
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
 - ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
+    - Develop and deploy smart contracts on ethereum network.
     - Develop Web/Mobile applications using Flutter.
     - Develop Payment gateway using Authorize.net and Stripe apis, Django, DRF.
     - Develop google add-ons using Apps Script.
