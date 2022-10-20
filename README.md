@@ -23,7 +23,7 @@
 
 ## Education
 - ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - Present*</span>  
-**Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions. [Github Repo](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)
+**Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions. [Web page](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/), [Github Repo](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)
 
 - ### **Bachelor of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2013 - July 2018*</span>  
 **Grade:** Excellent (Second of class) **GPA:** 3.9
