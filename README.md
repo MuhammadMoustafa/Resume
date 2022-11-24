@@ -35,6 +35,8 @@
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
 - ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
+    - Develop gRPC Services in c++.
+    - Using [Asylo](https://asylo.dev/) framework as an enclave backend to handle encrypted data. 
     - Develop and deploy smart contracts on ethereum network.
     - Develop web/mobile applications using Flutter.
     - Develop a payment gateway using Authorize.net and Stripe apis, Django, DRF.
@@ -71,12 +73,12 @@
 ## Skills
 - **Programming Languages:** Python, Javascript, Java, C/C++, Dart, Matlab.
 - **Web Frameworks:** Django, DRF, Spring, React, Node, Next, Flutter, Ionic, Loopback, Apps Script.
-- **Database:** MySQL, SQLite, NoSQL “Dynamo, Mongo”, ER Diagrams, ORM”Hibernate, Django ORM”, MySQL Workbench.
+- **Database:** MySQL, SQLite, NoSQL “Dynamo, Mongo, Redis”, ER Diagrams, ORM”Hibernate, Django ORM”, MySQL Workbench.
 - **Embedded:** 8051 Assembly, AVR, PIC, ESP8266,  Arduino, RTOS
 - **Blockchain:** Solidity, Truffle, Metamask, web3.js, Remix.
 - **Data Science:** Numpy, Pandas,  PyTorch, Tensorflow, Sklearn, Matplotlib, Seaborn, Jupyter.
 - **Scientific Tools:** NEURON, XPP.
-- **Others:** AWS, DICOM, PACS, git, Make, Multithreading, Unit Testing, Linux, Qt, Docker, Profiling, Logging, C Wrappers(Cython, JNI, matlab coder *formerly mex*).
+- **Others:** AWS, DICOM, PACS, gRPC, Asylo, git, Makefile, Bazel, Multithreading, Unit Testing, Linux, Qt, Docker, Profiling, Logging, C Wrappers(Cython, JNI, matlab coder *formerly mex*).
 
 ## Projects
 - **Imaging**
@@ -147,6 +149,7 @@
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) — (coursera, August 2016)
 
 ## Awards and Scholarships
+- AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022.
 - Jyväskylä Summer School 2021.
 - Machine Learning summer school MLSS 2021 Taipei.
 - Egypt FWD initiative, Udacity —Advanced Data Science Track.
