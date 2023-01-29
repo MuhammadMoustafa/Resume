@@ -17,7 +17,7 @@
 
 |Computer Science | Neuroscience | Modeling |
 | --- | --- | --- |
-|**Blockchain** | **Data science** | **Computer vision** |
+|**Blockchain** | **Data Science** | **Computer vision** |
 
 ---
 
@@ -25,7 +25,7 @@
 - ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - Present*</span>  
 **Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions. [Web page](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/), [Github Repo](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)
 
-- ### **Bachelor of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2013 - July 2018*</span>  
+- ### **Bachelor of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2013 - May 2018*</span>  
 **Grade:** Excellent (Second of class) **GPA:** 3.9
 
 ---
@@ -148,6 +148,10 @@
 - Hadoop Big data crash course — (IEEE-FCI, February 2017)
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) — (coursera, August 2016)
 
+## Publications
+- Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions  
+[Accepted](https://drive.google.com/file/d/1Clf4GGp1gp-qRRm30M1rxCPgK7srreXN/view?usp=share_link) for publication in “[Frontiers in Cellular Neuroscience](https://www.frontiersin.org/journals/cellular-neuroscience)” (Impact Factor 5) [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)
+
 ## Awards and Scholarships
 - AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022.
 - Jyväskylä Summer School 2021.
@@ -168,5 +172,5 @@
 ## Languages:
 - Arabic: Native
 - English: 105 TOEFL Score.
-- French: Unit 43 Duolingo
-- German: Unit 9 Duolingo
+- French: Unit 44 Duolingo
+- German: Unit 13 Duolingo
