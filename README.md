@@ -149,8 +149,8 @@
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) — (coursera, August 2016)
 
 ## Publications
-- Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions  
-[Accepted](https://drive.google.com/file/d/1Clf4GGp1gp-qRRm30M1rxCPgK7srreXN/view?usp=share_link) for publication in “[Frontiers in Cellular Neuroscience](https://www.frontiersin.org/journals/cellular-neuroscience)” (Impact Factor 5) [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)
+- Moustafa M, Mousa MH, Saad MS, Basha T and Elbasiouny SM (2023) Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions. [Front. Cell. Neurosci.](https://www.frontiersin.org/journals/cellular-neuroscience) 17:1093199. doi: 10.3389/fncel.2023.1093199 [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)  
+[Accepted](https://drive.google.com/file/d/1Clf4GGp1gp-qRRm30M1rxCPgK7srreXN/view?usp=share_link) for publication (Impact Factor 5)
 
 ## Awards and Scholarships
 - AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022.
