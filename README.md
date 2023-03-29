@@ -50,6 +50,11 @@
     - Create a deployment pipeline using Github action.
     - Generate API documentation using swagger.
 - ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *September 2022 - Present* </span>
+    - The curriculum consists of three modules.
+        - Object Oriented Programming
+        - Functional Programming
+        - Asynchronous Programming
+
 - ### **Siemens EDA, Cairo — Software Developer** <span style="font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *February 2021 - May 2021, September 2018 - January 2019* </span>
     - Invoked shell commands and created Java APIs from Veloce C library using JNI. 
     - Created Java APIs from Veloce C library using JNI.
