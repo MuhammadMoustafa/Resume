@@ -1,7 +1,7 @@
 # Muhammad Moustafa
 
 > ## Personal Info
-- [Github](https://github.com/MuhammadMoustafa) [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/)
+- [Github](https://github.com/MuhammadMoustafa) [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/) [Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ)
 - muhammadmoustafa22@gmail.com
 - Giza, Egypt
 - (+20) 115-833-9611
@@ -9,7 +9,7 @@
 --- 
 
 > ## Summary
-    Master's student in Neuroscience Modeling with experience in the software industry.
+    Master's degree in Neuroscience Modeling with experience in the software industry.
 
 ---
 
@@ -22,8 +22,8 @@
 ---
 
 ## Education
-- ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - Present*</span>  
-**Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions. [Web page](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/), [Github Repo](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)
+- ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - March 2023*</span>  
+**Thesis:** Bifurcation Analysis of Spinal Motoneuron Firing Behavior
 
 - ### **Bachelor of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2013 - May 2018*</span>  
 **Grade:** Excellent (Second of class) **GPA:** 3.9
@@ -35,6 +35,7 @@
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
 - ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
+    - Build distributed systems using microservice architecture with RabbitMQ as a message broker.
     - Develop gRPC Services in c++.
     - Using [Asylo](https://asylo.dev/) framework as an enclave backend to handle encrypted data. 
     - Develop and deploy smart contracts on ethereum network.
@@ -77,8 +78,9 @@
 - **Embedded:** 8051 Assembly, AVR, PIC, ESP8266,  Arduino, RTOS
 - **Blockchain:** Solidity, Truffle, Metamask, web3.js, Remix.
 - **Data Science:** Numpy, Pandas,  PyTorch, Tensorflow, Sklearn, Matplotlib, Seaborn, Jupyter.
+- **DevOps:** Linux, AWS, RabbitMQ, Docker, git, Makefile, Bazel, Profiling, Logging.
 - **Scientific Tools:** NEURON, XPP.
-- **Others:** AWS, DICOM, PACS, gRPC, Asylo, git, Makefile, Bazel, Multithreading, Unit Testing, Linux, Qt, Docker, Profiling, Logging, C Wrappers(Cython, JNI, matlab coder *formerly mex*).
+- **Others:** DICOM, PACS, Qt, gRPC, Asylo, Multithreading, Unit Testing, C Wrappers (Cython, JNI, matlab coder formerly mex).
 
 ## Projects
 - **Imaging**
@@ -136,6 +138,10 @@
     - [Data Structure](https://www.coursera.org/specializations/data-structures-algorithms) — (February 2021)
     - [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) — (April 2022)
     - [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) — (Audited)
+- [Google Project Management: Professional Certificate](https://www.coursera.org/specializations/data-structures-algorithms) — (coursera)
+    - [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations) — (February 2023)
+    - [Agile Project Management](https://www.coursera.org/learn/agile-project-management) — (March 2023)
+
 - [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining) — (coursera, In Progress) 
 - [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/) — (udemy, June 2022) [Tasks](https://github.com/MuhammadMoustafa/dl_a-z)
 - [Computational Neuroscience by University of Washington](https://www.coursera.org/learn/computational-neuroscience) — (coursera, August 2020)
@@ -149,8 +155,7 @@
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) — (coursera, August 2016)
 
 ## Publications
-- Moustafa M, Mousa MH, Saad MS, Basha T and Elbasiouny SM (2023) Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions. [Front. Cell. Neurosci.](https://www.frontiersin.org/journals/cellular-neuroscience) 17:1093199. doi: 10.3389/fncel.2023.1093199 [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)  
-[Accepted](https://drive.google.com/file/d/1Clf4GGp1gp-qRRm30M1rxCPgK7srreXN/view?usp=share_link) for publication (Impact Factor 5)
+- [*Moustafa M*, Mousa MH, Saad MS, Basha T and Elbasiouny SM (2023) Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions.](https://www.frontiersin.org/articles/10.3389/fncel.2023.1093199/full) Front. Cell. Neurosci. 17:1093199. doi: 10.3389/fncel.2023.1093199 [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)  
 
 ## Awards and Scholarships
 - AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022.
@@ -171,6 +176,6 @@
 
 ## Languages:
 - Arabic: Native
-- English: 105 TOEFL Score.
-- French: Unit 44 Duolingo
-- German: Unit 13 Duolingo
+- English: 105 TOEFL Score (Reading 27, Listening 29, Speaking 22, Writing 27)
+- French: Unit 45 Duolingo
+- German: Unit 15 Duolingo
