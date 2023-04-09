@@ -1,7 +1,7 @@
 # Muhammad Moustafa
 
 > ## Personal Info
-- [Github](https://github.com/MuhammadMoustafa) [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/) [Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ)
+- [Github](https://github.com/MuhammadMoustafa) [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/) [Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ) [Website](https://muhammadmoustafa.github.io/Resume/)
 - muhammadmoustafa22@gmail.com
 - Giza, Egypt
 - (+20) 115-833-9611
@@ -35,6 +35,7 @@
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
 - ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
+    - Develop a website for furniture design editing and visualization using React and Three.js
     - Build distributed systems using microservice architecture with RabbitMQ as a message broker.
     - Develop gRPC Services in c++.
     - Using [Asylo](https://asylo.dev/) framework as an enclave backend to handle encrypted data. 
@@ -160,7 +161,7 @@
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) — (coursera, August 2016)
 
 ## Publications
-- [*Moustafa M*, Mousa MH, Saad MS, Basha T and Elbasiouny SM (2023) Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions.](https://www.frontiersin.org/articles/10.3389/fncel.2023.1093199/full) Front. Cell. Neurosci. 17:1093199. doi: 10.3389/fncel.2023.1093199 [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour)  
+- [*Moustafa M*, Mousa MH, Saad MS, Basha T and Elbasiouny SM (2023) Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions.](https://www.frontiersin.org/articles/10.3389/fncel.2023.1093199/full) Front. Cell. Neurosci. 17:1093199. doi: 10.3389/fncel.2023.1093199 [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour) [ModelDB](https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=267710&file=/moustafaetal2023/XPPAUT%20Model/#tabs-1)
 
 ## Awards and Scholarships
 - AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022.
