@@ -9,7 +9,7 @@
 --- 
 
 > ## Summary
-    Master's degree in Neuroscience Modeling with experience in the software industry.
+    Master's in Neuroscience Modeling with experience in the software industry.
 
 ---
 
@@ -22,8 +22,8 @@
 ---
 
 ## Education
-- ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - March 2023*</span>  
-**Thesis:** Bifurcation Analysis of Spinal Motoneuron Firing Behavior
+- ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - May 2023*</span>  
+**Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions.
 
 - ### **Bachelor of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2013 - May 2018*</span>  
 **Grade:** Excellent (Second of class) **GPA:** 3.9
@@ -35,21 +35,22 @@
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
 - ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
-    - Develop a website for furniture design editing and visualization using React and Three.js
+    - Architect, manage and develop a website for furniture design editing and visualization using Django, DRF, Hasura, React, and Three.js.
+    - Develop a Django app to manage user and group permissions.
     - Build distributed systems using microservice architecture with RabbitMQ as a message broker.
-    - Develop gRPC Services in c++.
+    - Develop gRPC Services in C++.
     - Using [Asylo](https://asylo.dev/) framework as an enclave backend to handle encrypted data. 
-    - Develop and deploy smart contracts on ethereum network.
+    - Develop and deploy smart contracts on the Ethereum network.
     - Develop web/mobile applications using Flutter.
-    - Develop a payment gateway using Authorize.net and Stripe apis, Django, DRF.
-    - Develop google add-ons using Apps Script.
+    - Develop a payment gateway using Authorize.net and Stripe APIs, Django, and DRF.
+    - Develop Google add-ons using Apps Script.
     - Using getX as a State Management library for Flutter applications.
-    - Work on [AIRA](https://www.intixel.com/products/>) system for analysis of breast cancer images using Django, DRF, React, Next, MySQL.
+    - Work on [AIRA](https://www.intixel.com/products/>) system for analysis of breast cancer images using Django, DRF, React, Next, and MySQL.
     - Add user tracking analytics service to AIRA.
-    - Communicate with different hospital imaging modalities and PACS using DICOM standard.
-    - Use knox to add a security layer using web tokens.
+    - Communicate with different hospital imaging modalities and PACS using DICOM standards.
+    - Use Knox to add an authentication layer using web tokens.
     - Create a deployment pipeline using Github action.
-    - Generate API documentation using swagger.
+    - Generate API documentation using Swagger.
 - ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *September 2022 - Present* </span>
     - The curriculum consists of three modules.
         - Object Oriented Programming
@@ -57,19 +58,19 @@
         - Asynchronous Programming
 
 - ### **Siemens EDA, Cairo — Software Developer** <span style="font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *February 2021 - May 2021, September 2018 - January 2019* </span>
-    - Invoked shell commands and created Java APIs from Veloce C library using JNI. 
-    - Created Java APIs from Veloce C library using JNI.
+    - Invoked shell commands and created Java APIs from the Veloce C library using JNI. 
+    - Created Java APIs from the Veloce C library using JNI.
     - Wrote scripts that use and parse the output of Enterprise Server and Veloce Strato Emulator.
-    - Used maven for project management.
+    - Used Maven for project management.
     - Wrote unit tests for new code changes using JUnit. 
-    - Used javadoc for documentation.
-    - Ported 0-in from linux to windows using cross platform libraries and mingw-64 cross compiler.
+    - Used Javadoc for documentation.
+    - Ported 0-in from Linux to Windows using cross-platform libraries and mingw-64 cross compiler.
     - Maintained and added new Features to [Questa](https://www.mentor.com/products/fv/questa/) Coverage.
     - Maintained and Ran Regression tests.
     - Deployed new changes using Jenkins CI/CD pipeline.
 - ### **ThinkLoud, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.thinkloud.co/), [linkedin](https://www.linkedin.com/company/thinkloudllc/) *August 2018* </span>
-    - Developed Web/Mobile applications using Ionic, Loopback and MongoDB.
-    - Developed Rest APIs and generated API documentation using swagger.
+    - Developed Web/Mobile applications using Ionic, Loopback, and MongoDB.
+    - Developed Rest APIs and generated API documentation using Swagger.
     - Peer code review.
 - ### **Dileny, Giza — Software Developer - Intern** <span style="font-size:1rem;">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) *July 2017 - September* 2017 </span>
     - Used C++/OpenCv/Qt to build an Image processing Desktop Application.
@@ -86,7 +87,7 @@
 - **Data Science:** Numpy, Pandas,  PyTorch, Tensorflow, Sklearn, Matplotlib, Seaborn, Jupyter.
 - **DevOps:** Linux, AWS, RabbitMQ, Docker, git, Makefile, Bazel, Profiling, Logging.
 - **Scientific Tools:** NEURON, XPP.
-- **Others:** DICOM, PACS, Qt, gRPC, Asylo, Multithreading, Unit Testing, C Wrappers (Cython, JNI, matlab coder formerly mex).
+- **Others:** Hasura, GraphQL, Qt, DICOM, PACS, gRPC, Asylo, Multithreading, Unit Testing, C Wrappers (Cython, JNI, matlab coder formerly mex).
 
 ## Projects
 - **Imaging**
@@ -120,7 +121,7 @@
 - **Desktop Applications**
     - [**PDFetos**](https://github.com/MuhammadMoustafa/PDFetos) — Desktop App to convert images into pdf (C++, Qt, OpenCV)
     - [**DSP Sound Filter**](https://github.com/MuhammadMoustafa/DSP/tree/master/BIO2018-DSP-PROJECT02-GroupNumber-9) — Design and Implement a digital filter using zeros and poles locations on z-plane (Python)
-    - [**DSP Equalizer**](https://github.com/MuhammadMoustafa/DSP/tree/master/BIO2018-DSP-PROJECT04-GroupNumber-9) — Design a real time digital equalizer (Python, Arduino)
+    - [**DSP Equalizer**](https://github.com/MuhammadMoustafa/DSP/tree/master/BIO2018-DSP-PROJECT04-GroupNumber-9) — Design a real-time digital equalizer (Python, Arduino)
 - **Embedded Software**
     - **Elevator Control System** — (8051 Microcontroller, Arduino, Android App)
     - **Vending Machine** — Vending Machine Using FPGA Kit (VHDL, Xilinx)
@@ -129,6 +130,7 @@
     - **POV Fan** — (Arduino)
 
 ## Courses and MOOCs
+- [Neuromatch Academy](https://portal.neuromatchacademy.org/) Deep Learning (Next July 2023)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — (coursera, September 2022)
     - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) (August 2022)
     - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) (September 2022)
@@ -177,11 +179,11 @@
 - Coordinator of my department class — (August 2015 - August 2018)
 - Organizer of SBME Seminars & Admin of [CUFE-BME Youtube Channel](https://www.youtube.com/channel/UCAX4MxXJ4-NZoiv-ieXGYjw)
 - C++ Instructor— Beat Student Activity (July 2016)
-- Primary Arabic Teacher — Hand in Hand Student Activity (November 2014 - January 2015)
+- Primary Arabic Teacher — Hand-in-Hand Student Activity (November 2014 - January 2015)
 - Conference Logistics Member — (BECEM April 2018, ISC April 2017)
 
 ## Languages:
 - Arabic: Native
 - English: 105 TOEFL Score (Reading 27, Listening 29, Speaking 22, Writing 27)
-- French: Unit 45 Duolingo
-- German: Unit 15 Duolingo
+- French: Section 4, Unit 2 Duolingo.
+- German: Section 2, Unit 10 Duolingo.
