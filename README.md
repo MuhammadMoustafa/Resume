@@ -1,7 +1,7 @@
 # Muhammad Moustafa
 
 > ## Personal Info
-- [Github](https://github.com/MuhammadMoustafa) [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/) [Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ) [Website](https://muhammadmoustafa.github.io/Resume/)
+- [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/), [Google Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ)
 - muhammadmoustafa22@gmail.com
 - Giza, Egypt
 - (+20) 115-833-9611
@@ -31,57 +31,27 @@
 ---
 
 ## Experience 
-- ### **Biomedical Engineering, Cairo University — Teaching Assistant** <span style="font-size:1rem;">*February 2019 - Present*</span>  
+- ### **Biomedical Engineering, Cairo University — Teaching Assistant** <span style="font-size:1rem;">*February 2019 - Present*</span>
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
-- ### **Intixel, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.intixel.com/), [linkedin](https://www.linkedin.com/company/intixel/mycompany/) *May 2021 - Present*</span>
-    - Architect, manage and develop a website for furniture design editing and visualization using Django, DRF, Hasura, React, and Three.js.
-    - Develop a Django app to manage user and group permissions.
-    - Build distributed systems using microservice architecture with RabbitMQ as a message broker.
-    - Develop gRPC Services in C++.
-    - Using [Asylo](https://asylo.dev/) framework as an enclave backend to handle encrypted data. 
-    - Develop and deploy smart contracts on the Ethereum network.
-    - Develop web/mobile applications using Flutter.
-    - Develop a payment gateway using Authorize.net and Stripe APIs, Django, and DRF.
-    - Develop Google add-ons using Apps Script.
-    - Using getX as a State Management library for Flutter applications.
-    - Work on [AIRA](https://www.intixel.com/products/>) system for analysis of breast cancer images using Django, DRF, React, Next, and MySQL.
-    - Add user tracking analytics service to AIRA.
-    - Communicate with different hospital imaging modalities and PACS using DICOM standards.
-    - Use Knox to add an authentication layer using web tokens.
-    - Create a deployment pipeline using Github action.
-    - Generate API documentation using Swagger.
-- ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *October 2022 - March 2023* </span>
-    - The curriculum consists of three modules.
-        - Object Oriented Programming
-        - Functional Programming
-        - Asynchronous Programming
-
-- ### **Siemens EDA, Cairo — Software Developer** <span style="font-size:1rem;"> [website](https://eda.sw.siemens.com/en-US/) *February 2021 - May 2021, September 2018 - January 2019* </span>
-    - Invoked shell commands and created Java APIs from the Veloce C library using JNI. 
-    - Created Java APIs from the Veloce C library using JNI.
-    - Wrote scripts that use and parse the output of Enterprise Server and Veloce Strato Emulator.
-    - Used Maven for project management.
-    - Wrote unit tests for new code changes using JUnit. 
-    - Used Javadoc for documentation.
-    - Ported 0-in from Linux to Windows using cross-platform libraries and mingw-64 cross compiler.
-    - Maintained and added new Features to [Questa](https://www.mentor.com/products/fv/questa/) Coverage.
-    - Maintained and Ran Regression tests.
-    - Deployed new changes using Jenkins CI/CD pipeline.
-- ### **ThinkLoud, Cairo — Software Developer** <span style="font-size:1rem;">[website](https://www.thinkloud.co/), [linkedin](https://www.linkedin.com/company/thinkloudllc/) *August 2018* </span>
-    - Developed Web/Mobile applications using Ionic, Loopback, and MongoDB.
-    - Developed Rest APIs and generated API documentation using Swagger.
-    - Peer code review.
-- ### **Dileny, Giza — Software Developer - Intern** <span style="font-size:1rem;">[website](https://www.dilenytech.com/home-index), [linkedin](https://www.linkedin.com/company/dilenytech/) *July 2017 - September* 2017 </span>
-    - Used C++/OpenCv/Qt to build an Image processing Desktop Application.
-    - Created application prototypes using Python
-    - Drew ER diagrams and Created DB schema on SQLite.
-    - Products: US-Elasto
-
+- ### **[Intixel](https://www.intixel.com/), Cairo — Software Engineer** <span style="font-size:1rem;"> [linkedin](https://www.linkedin.com/company/intixel/mycompany/), *May 2021 - Present*</span>
+    - Used Technologies: Django, DRF, Hasura, React, Three.js, Next.js, MySQL, RabbitMQ, Ethereum, Flutter, Authorize.net, Stripe APIs, Apps Script, Knox, Github Actions, Swagger.
+    - Projects:
+        - WAE: Furniture design website
+        - Ahket: Attestation Management Platform based on Web3 and smart contracts.
+        - AIRA: Cancer detection and annotation website.
+          
+- ### **[Siemens EDA](https://eda.sw.siemens.com/en-US/), Cairo — Software Engineer** <span style="font-size:1rem;">  *February 2021 - May 2021, September 2018 - January 2019* </span>
+    - Used Technologies: JNI (Java Native Interface), Maven, JUnit, Javadoc, Cross-platform libraries, mingw-64 cross compiler, Jenkins CI/CD pipeline
+    - Projects: 
+        - Veloce Strato Emulator Interface.
+        - 0-in: Porting from Linux to Windows using c++ cross-platform libraries and mingw-64 cross compiler.
+        - [Questa](https://www.mentor.com/products/fv/questa/) Coverage: Maintainance and adding new features.
+    
 ## Skills
 - **Programming Languages:** Python, Javascript, Java, C/C++, Dart, Matlab.
 - **Web Frameworks:** Django, DRF, Spring, React, Node, Next, Flutter, Ionic, Loopback, Apps Script.
-- **Database:** MySQL, SQLite, NoSQL “Dynamo, Mongo, Redis”, ER Diagrams, ORM”Hibernate, Django ORM”, MySQL Workbench.
+- **Database:** MySQL, SQLite, NoSQL “Dynamo, Mongo, Redis”, ER Diagrams, ORM “Hibernate, Django ORM”, MySQL Workbench.
 - **Embedded:** 8051 Assembly, AVR, PIC, ESP8266,  Arduino, RTOS
 - **Blockchain:** Solidity, Truffle, Metamask, web3.js, Remix.
 - **Data Science:** Numpy, Pandas,  PyTorch, Tensorflow, Sklearn, Matplotlib, Seaborn, Jupyter.
@@ -129,6 +99,22 @@
     - **2FA security system** — (Arduino, Android App)
     - **POV Fan** — (Arduino)
 
+## Internships
+- ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *October 2022 - March 2023* </span>
+    - The curriculum consists of three modules.
+        - Object Oriented Programming
+        - Functional Programming
+        - Asynchronous Programming
+- ### **[ThinkLoud](https://www.thinkloud.co/), Cairo — Software Engineer**, [linkedin](https://www.linkedin.com/company/thinkloudllc/), *August 2018*
+    - Developed Web/Mobile applications using Ionic, Loopback, and MongoDB.
+    - Developed Rest APIs and generated API documentation using Swagger.
+    - Peer code review.
+- ### **[Dileny](https://www.dilenytech.com/home-index), Giza — Software Engineer**, [linkedin](https://www.linkedin.com/company/dilenytech/), *July 2017 - September 2017*
+    - Used C++/OpenCv/Qt to build an Image processing Desktop Application.
+    - Created application prototypes using Python
+    - Drew ER diagrams and Created DB schema on SQLite.
+    - Products: US-Elasto
+  
 ## Courses and MOOCs
 - [Neuromatch Academy](https://portal.neuromatchacademy.org/) Deep Learning (July 2023)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — (Coursera, September 2022)
@@ -169,7 +155,7 @@
 ## Publications
 - [*Moustafa M*, Mousa MH, Saad MS, Basha T and Elbasiouny SM (2023) Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions.](https://www.frontiersin.org/articles/10.3389/fncel.2023.1093199/full) Front. Cell. Neurosci. 17:1093199. doi: 10.3389/fncel.2023.1093199 [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour) [ModelDB](https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=267710&file=/moustafaetal2023/XPPAUT%20Model/#tabs-1)
 
-## Training and Professional Development:
+## Extracurricular Activities
 - AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022
 - Jyväskylä Summer School 2021
 - Machine Learning summer school MLSS 2021 Taipei
@@ -179,7 +165,7 @@
 - IEEE EMBS Cairo University Student Chapter Summer Contest, Second Place (2016) — Cloud-based Electronic Medical Record “EMR”.
 - UBORA design competition Second Stage (2017) — Design of Portable Solar Incubator.
 
-## Volunteering and Extracurricular Work 
+## Volunteering Experience 
 - Project mentor for Neuromatch deep learning (July 2023)
 - Machine learning mentor in STP [Macathon 3.0](https://stp-org.com/stp22/Machathon3/Machathon3.0_Page/)
 - IEEE-SMP “Student Mentorship Program” — (June 2021 - December 2021)
