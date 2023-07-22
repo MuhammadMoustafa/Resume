@@ -101,7 +101,7 @@
 
 ## Internships
 - ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *October 2022 - March 2023* </span>
-    - The curriculum consists of three modules.
+    - The curriculum consists of three modules:
         - Object Oriented Programming
         - Functional Programming
         - Asynchronous Programming
