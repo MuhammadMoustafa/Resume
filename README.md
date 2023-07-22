@@ -26,7 +26,7 @@
 **Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions.
 
 - ### **Bachelor of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2013 - May 2018*</span>  
-**Grade:** Excellent (Second of class) **GPA:** 3.9
+**Grade:** Excellent **GPA:** 3.9
 
 ---
 
