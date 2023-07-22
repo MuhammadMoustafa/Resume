@@ -35,7 +35,7 @@
 **Courses:** Medical Equipment “MRI”, Programming Techniques and OOP, Data Structures, Algorithms, Embedded, Biosystems and IOT, Digital Signal Processing, Biometrics.
 
 - ### **[Intixel](https://www.intixel.com/), Cairo — Software Engineer** <span style="font-size:1rem;"> [linkedin](https://www.linkedin.com/company/intixel/mycompany/), *May 2021 - Present*</span>
-    - Used Technologies: Django, DRF, Hasura, React, Three.js, Next.js, MySQL, RabbitMQ, Ethereum, Flutter, Authorize.net, Stripe APIs, Apps Script, Knox, Github Actions, Swagger.
+    - Used Technologies: Django, DRF, Hasura, React, Three.js, Next.js, MySQL, RabbitMQ, Ethereum, Flutter, Authorize.net, Stripe APIs, Apps Script, Knox, GitHub Actions, Swagger.
     - Projects:
         - WAE: Furniture design website
         - Ahket: Attestation Management Platform based on Web3 and smart contracts.
@@ -46,7 +46,7 @@
     - Projects: 
         - Veloce Strato Emulator Interface.
         - 0-in: Porting from Linux to Windows using c++ cross-platform libraries and mingw-64 cross compiler.
-        - [Questa](https://www.mentor.com/products/fv/questa/) Coverage: Maintainance and adding new features.
+        - Questa Coverage: Maintainance and adding new features.
     
 ## Skills
 - **Programming Languages:** Python, Javascript, Java, C/C++, Dart, Matlab.
