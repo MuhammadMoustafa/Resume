@@ -51,7 +51,7 @@
     - Use Knox to add an authentication layer using web tokens.
     - Create a deployment pipeline using Github action.
     - Generate API documentation using Swagger.
-- ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *September 2022 - Present* </span>
+- ### Udacity — Session Lead of [Intermediate Javascript Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_variant_a) <span style="font-size:1rem;"> *October 2022 - March 2023* </span>
     - The curriculum consists of three modules.
         - Object Oriented Programming
         - Functional Programming
@@ -130,7 +130,7 @@
     - **POV Fan** — (Arduino)
 
 ## Courses and MOOCs
-- [Neuromatch Academy](https://portal.neuromatchacademy.org/) Deep Learning (Next July 2023)
+- [Neuromatch Academy](https://portal.neuromatchacademy.org/) Deep Learning (July 2023)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — (Coursera, September 2022)
     - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) (August 2022)
     - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) (September 2022)
@@ -169,15 +169,18 @@
 ## Publications
 - [*Moustafa M*, Mousa MH, Saad MS, Basha T and Elbasiouny SM (2023) Bifurcation analysis of motoneuronal excitability mechanisms under normal and ALS conditions.](https://www.frontiersin.org/articles/10.3389/fncel.2023.1093199/full) Front. Cell. Neurosci. 17:1093199. doi: 10.3389/fncel.2023.1093199 [Website](https://muhammadmoustafa.github.io/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour/) [Code](https://github.com/MuhammadMoustafa/Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour) [ModelDB](https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=267710&file=/moustafaetal2023/XPPAUT%20Model/#tabs-1)
 
-## Awards and Scholarships
-- AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022.
-- Jyväskylä Summer School 2021.
-- Machine Learning summer school MLSS 2021 Taipei.
-- Egypt FWD initiative, Udacity —Advanced Data Science Track.
+## Training and Professional Development:
+- AI in Medical Imaging Winter School RISE-MICCAI & AFRICAI — November 2022
+- Jyväskylä Summer School 2021
+- Machine Learning summer school MLSS 2021 Taipei
+- Egypt FWD initiative, Udacity — Advanced Data Science Track
+
+## Awards and Achievements
 - IEEE EMBS Cairo University Student Chapter Summer Contest, Second Place (2016) — Cloud-based Electronic Medical Record “EMR”.
 - UBORA design competition Second Stage (2017) — Design of Portable Solar Incubator.
 
 ## Volunteering and Extracurricular Work 
+- Project mentor for Neuromatch deep learning (July 2023)
 - Machine learning mentor in STP [Macathon 3.0](https://stp-org.com/stp22/Machathon3/Machathon3.0_Page/)
 - IEEE-SMP “Student Mentorship Program” — (June 2021 - December 2021)
 - Coordinator of my department class — (August 2015 - August 2018)
@@ -190,4 +193,4 @@
 - Arabic: Native
 - English: 105 TOEFL Score (Reading 27, Listening 29, Speaking 22, Writing 27)
 - French: Section 4, Unit 2 Duolingo.
-- German: Section 2, Unit 10 Duolingo.
+- German: Section 2, Unit 11 Duolingo.
