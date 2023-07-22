@@ -39,7 +39,7 @@
     - Projects:
         - WAE: Furniture design website
         - Ahket: Attestation Management Platform based on Web3 and smart contracts.
-        - AIRA: Cancer detection and annotation website.
+        - [AIRA](https://www.intixel.com/products/): Cancer detection and annotation website.
           
 - ### **[Siemens EDA](https://eda.sw.siemens.com/en-US/), Cairo — Software Engineer** <span style="font-size:1rem;">  *February 2021 - May 2021, September 2018 - January 2019* </span>
     - Used Technologies: JNI (Java Native Interface), Maven, JUnit, Javadoc, Cross-platform libraries, mingw-64 cross compiler, Jenkins CI/CD pipeline
