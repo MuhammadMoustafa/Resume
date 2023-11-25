@@ -1,7 +1,7 @@
 # Muhammad Moustafa
 
 > ## Personal Info
-- [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/), [Google Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ)
+- [Github](https://github.com/MuhammadMoustafa), [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/), [Google Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ)
 - muhammadmoustafa22@gmail.com
 - Giza, Egypt
 - (+20) 115-833-9611
@@ -60,6 +60,12 @@
 - **Others:** Hasura, GraphQL, Qt, DICOM, PACS, gRPC, Asylo, Multithreading, Unit Testing, C Wrappers (Cython, JNI, matlab coder formerly mex).
 
 ## Projects
+- **Neuroscience**
+    - Run simulations for neurons and networks using NEURON and Python
+    - Build neural models and conduct bifurcation analysis using XPPAUT
+- **Open Source**
+    - [**startdomain**](https://github.com/MuhammadMoustafa/startdomain) — A Django app to create apps aligned with Django API Domains (Python, Django, DRF) [PyPI link](https://pypi.org/project/startdomain/)
+    - [**XPP**](https://github.com/MuhammadMoustafa/XPP-ODE-Extension) — VS Code extension [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadMoustafa.xpp)
 - **Imaging**
     - [**MRI Sequence Simulator**](https://github.com/MuhammadMoustafa/MRI_Simulator) — MRI Imaging Simulator with different pulse sequences and different imaging parameters (Matlab, C ”Matlab mex”, Python, Cython)
     - **CT-MR Tracker** — Desktop application that links a DICOM MR-Image with a CT-Image or vice versa in order to propagate the same transformation or highlighting from one Image to another (Python, Qt, pydicom)
@@ -76,10 +82,6 @@
     - [**A/B testing**](https://github.com/MuhammadMoustafa/AdvancedDataAnalysis/tree/main/Analyze%20A_B%20Test) — (Python, pandas, numpy, statsmodel, sklearn)
     - **Prediction of Type II Diabetes** — Train several ML Models on Pima diabetes dataset using hyperparameter tuning and k-cross validation then compare their confusion matrix, ROC and Feature Importance. (Python, pandas, sklearn)
     - [**Hand Movement Classifier**](https://github.com/MuhammadMoustafa/Hand-Movement-Classifier) — Differentiate between Palmar and Lateral Movement Records (Python)
-- **Neuroscience**
-    - [**XPP vscode extension code**](https://github.com/MuhammadMoustafa/XPP-ODE-Extension) [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=MuhammadMoustafa.xpp)
-    - **Run simulation for neurons and networks using NEURON and Python**
-    - **Build neural models and conduct bifurcation analysis using XPPAUT**
 - **Web Development**
     - [**National Electronic Health Record** ](https://bitbucket.org/nehrgp/graduation_project/src/master/) “Graduation project”— scalable platform to exchange medical data between different healthcare providers (Java Spring, DynamoDB, S3, redshift)
     - [**Web CIS**](https://github.com/MuhammadMoustafa/CIS) — Cloud-based Clinical Information System (C#, ASP.net, SQL, Amazon RDS)
