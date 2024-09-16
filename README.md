@@ -1,15 +1,15 @@
-# Muhammad Moustafa
+# Muhammad M. Ahmad
 
 > ## Personal Info
-- [Github](https://github.com/MuhammadMoustafa), [Linkedin](https://www.linkedin.com/in/muhammad-moustafa-62743a125/), [Google Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ)
+- [Github](https://github.com/MuhammadMoustafa), [Linkedin](https://www.linkedin.com/in/muhammad-ahmad-62743a125/), [Google Scholar](https://scholar.google.com/citations?user=bQ_ciosAAAAJ)
 - muhammadmoustafa22@gmail.com
-- Giza, Egypt
+- Montreal, Quebec, Canada
 - (+20) 115-833-9611
 
 --- 
 
 > ## Summary
-    Master's in Neuroscience Modeling with experience in the software industry.
+    A Ph.D. student in Neuroscience Modeling with experience in the software industry.
 
 ---
 
@@ -22,6 +22,8 @@
 ---
 
 ## Education
+- ### **Ph.D. in Physiology, McGill University** — <span style="font-size:1rem;">*September 2024 - In Progress*</span>  
+
 - ### **Master’s of Biomedical Engineering School, Cairo University** — <span style="font-size:1rem;">*September 2018 - May 2023*</span>  
 **Thesis:** Bifurcation analysis of a spinal motoneuron model under normal and pathological conditions.
 
@@ -56,7 +58,7 @@
 - **Blockchain:** Solidity, Truffle, Metamask, web3.js, Remix.
 - **Data Science:** Numpy, Pandas,  PyTorch, Tensorflow, Sklearn, Matplotlib, Seaborn, Jupyter.
 - **DevOps:** Linux, AWS, RabbitMQ, Docker, git, Makefile, Bazel, Profiling, Logging.
-- **Scientific Tools:** NEURON, XPP.
+- **Scientific Tools:** NEURON, XPP, MiniZinc.
 - **Others:** Hasura, GraphQL, Qt, DICOM, PACS, gRPC, Asylo, Multithreading, Unit Testing, C Wrappers (Cython, JNI, matlab coder formerly mex).
 
 ## Projects
@@ -141,7 +143,7 @@
 - [Google Project Management: Professional Certificate](https://www.coursera.org/specializations/data-structures-algorithms) — (Coursera)
     - [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations) — (February 2023)
     - [Agile Project Management](https://www.coursera.org/learn/agile-project-management) — (March 2023)
-
+- [Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling) — (Coursera, August 2024) 
 - [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining) — (Coursera, In Progress) 
 - [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/) — (udemy, June 2022) [Tasks](https://github.com/MuhammadMoustafa/dl_a-z)
 - [Computational Neuroscience by University of Washington](https://www.coursera.org/learn/computational-neuroscience) — (Coursera, August 2020)
@@ -180,5 +182,5 @@
 ## Languages:
 - Arabic: Native
 - English: 105 TOEFL Score (Reading 27, Listening 29, Speaking 22, Writing 27)
-- French: Section 4, Unit 2 Duolingo.
-- German: Section 2, Unit 11 Duolingo.
+- French: Section 4, Unit 21 Duolingo (Score 40).
+- German: Section 2, Unit 19 Duolingo.
